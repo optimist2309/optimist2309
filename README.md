@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/optimist2309"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.linkedin.com/in/optimist2309"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </p>
-
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 
 
