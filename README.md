@@ -20,10 +20,10 @@
 <br/>
 
 ## Programming Languages and Tools
-<img src = 'pycharm.svg' width='30'/> <img src = 'python2.png' height='30'/>  
-<img src = 'html.svg' width='30'/> <img src = 'css.svg' width='30'/> 
-<img src = 'sql.svg' width='30'/> <img src = 'git.svg' width='30'/>
-<img src = 'bash.png' width='30'/>
+<img src = 'pycharm.svg' width='60'/> <img src = 'python2.png' height='60'/>  
+<img src = 'html.svg' width='60'/> <img src = 'css.svg' width='60'/> 
+<img src = 'sql.svg' width='60'/> <img src = 'git.svg' width='60'/>
+<img src = 'bash.png' width='120' height='60'/>
 <br/>
 <br/>
 ### Links
