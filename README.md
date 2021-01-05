@@ -19,6 +19,12 @@
 <br/>
 <br/>
 
+## Programming Languages and Tools
+<img src = 'pycharm.svg' width='30'/> <img src = 'python2.png' height='30'/>  
+<img src = 'html.svg' width='30'/> <img src = 'css.svg' width='30'/> 
+<img src = 'sql.svg' width='30'/> <img src = 'git.svg' width='30'/>
+<br/>
+<br/>
 ### Links
 
 <p align="center">
