@@ -24,8 +24,10 @@
 <img src = 'html.svg' width='60'/> <img src = 'css.svg' width='60'/> 
 <img src = 'sql.svg' width='60'/> <img src = 'git.svg' width='60'/>
 <img src = 'bash.png' width='120' height='60'/>
+  
 <br/>
 <br/>
+
 ### Links
 
 <p align="center">
