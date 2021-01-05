@@ -5,7 +5,7 @@
 - 🔭 I’m currently working in Cerence as Software Quality Engineer.
 - 🌱 I’m currently learning Python , Docker, PenTesting; 
 - 💬 Ask me about anything, I am happy to help;
-- **I'm a Night 🦉** 
+- I'm a Night 🦉
 
 
 
