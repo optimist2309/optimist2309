@@ -3,6 +3,8 @@
 
 
 - 🔭 I’m currently working in Cerence as Software Quality Engineer.
+- 🌱 I’m currently learning Python , Docker, PenTesting; 
+- 💬 Ask me about anything, I am happy to help;
 
 
 <a href="https://github.com/optimist2309">
