@@ -2,11 +2,11 @@
 
 
 
-- 🔭 Software Quality Engineer at <a href="https://www.cerence.com/home">Cerence</a> ;
-- 🌱 I’m currently learning Python,Docker,PenTesting; 
+- Software Quality Engineer at <a href="https://www.cerence.com/home">Cerence</a> ;
+- I’m currently learning Python,Docker,PenTesting; 
 - Ask me about anything, I am happy to help;
-- I'm a Night 🦉
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- I'm a Night Owl
+- Reading & writing tech blogs whenever possible.
 - 𝙸 𝚞𝚜𝚎 Mint [<img src="linux-mint.svg" height="30em" align="center" alt="Linux Mint Logo" title="Linux Mint Logo"/>](https://linuxmint.com/)
 
 
