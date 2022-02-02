@@ -2,7 +2,7 @@
 
 
 
-- Software Quality Engineer at <a href="https://www.cerence.com/home">Cerence</a> 
+- Software Quality Engineer at <a href="https://www.veritas.com/">Verits Technologies</a> 
 - I’m currently learning Python,Docker,PenTesting
 - Ask me about anything, I am happy to help
 - I'm a Night Owl
@@ -21,14 +21,12 @@
 
 ## Programming Languages and Tools
 <img src = 'pycharm.svg' width='60'/> <img src = 'python2.png' height='60'/>  
-<img src = 'html.svg' width='60'/> <img src = 'css.svg' width='60'/> 
-<img src = 'sql.svg' width='60'/> <img src = 'git.svg' width='60'/>
+<img src = 'git.svg' width='60'/>
 <img src = 'bash.png' width='120' height='60'/>
   
 <br/>
-<br/>
 
-### Links
+## Links
 
 <p align="center">
   <a href="mailto:harishtiwary46@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
