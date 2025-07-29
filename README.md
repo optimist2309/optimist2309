@@ -3,7 +3,7 @@
 
 
 - Software Quality Engineer at <a href="https://www.veritas.com/">Veritas Technologies</a> 
-- I’m currently learning Python,Docker,PenTesting.
+- I’m currently learning Python,Docker,JS.
 - Ask me about anything, I am happy to help.
 - I'm a Night Owl.
 - Reading & writing tech blogs whenever possible.
