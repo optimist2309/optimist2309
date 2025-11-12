@@ -2,7 +2,7 @@
 
 
 
-- Software Quality Engineer at <a href="https://www.veritas.com/">Veritas Technologies</a> 
+- Software Quality Engineer at <a href="https://www.db.com/">Deutsche Bank</a> 
 - I’m currently learning Python,Docker,JS.
 - Ask me about anything, I am happy to help.
 - I'm a Night Owl.
