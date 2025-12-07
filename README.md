@@ -9,13 +9,6 @@
 - Reading & writing tech blogs whenever possible.
 - 𝙸 𝚞𝚜𝚎 Mint [<img src="linux-mint.svg" height="30em" align="center" alt="Linux Mint Logo" title="Linux Mint Logo"/>](https://linuxmint.com/)
 
-
-
-
-
-<br/>
-<br/>
-
 ## Reachout to me ....
 
 <p align="center">
