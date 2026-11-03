@@ -3,7 +3,7 @@
 
 
 - Software Quality Engineer at <a href="https://www.db.com/">Deutsche Bank</a> 
-- I’m currently learning Python,Docker,JS.
+- I’m currently learning Python,Docker,JS, Playwright, AI-EVALS.
 - Ask me about anything, I am happy to help.
 - I'm a Night Owl.
 - Reading & writing tech blogs whenever possible.
